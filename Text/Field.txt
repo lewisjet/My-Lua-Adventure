@@ -1,0 +1,2 @@
+You're in a field, covered with grass.
+What would you like to do?
